@@ -4,9 +4,10 @@ web server provide service for generating lati and longi from location column fr
 Please follow the steps below to run this web app:
 
 1. Run:
-git clone https://github.com/imblackdevil123/geocoder.git
 
-python3 app.py
+   git clone https://github.com/imblackdevil123/geocoder.git
+
+   python3 app.py
 
 2. Go to localhost:5000 and you should see the webpage
 
